@@ -33,17 +33,24 @@
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+![Screenshot 2024-10-21 094932](https://github.com/user-attachments/assets/775c5d9c-f7dd-495c-94b0-a25b732379a2)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+![Screenshot 2024-10-21 093833](https://github.com/user-attachments/assets/4d8bde4a-81c8-457b-a41c-703db18eb0a3)
+![Screenshot 2024-10-21 093945](https://github.com/user-attachments/assets/b762e4d4-cd4b-4e26-a213-8d9d3b12efc1)
+
+
 
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+![Screenshot 2024-10-21 092408](https://github.com/user-attachments/assets/7d1305b0-c667-4ed8-acbb-c57b29124318)
+![Screenshot 2024-10-21 092025](https://github.com/user-attachments/assets/4e306f6d-2a49-41e7-bc55-3a9f989a1ee1)
+
+
 
 ***
 
